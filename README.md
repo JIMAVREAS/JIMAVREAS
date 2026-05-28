@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jim 👋
 
-<!--
-**JIMAVREAS/JIMAVREAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in Data Science, Python, databases, and web development.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- SQL
+- Data Analysis
+- Machine Learning basics
+- Google AI Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Sports Store Website
+- PostgreSQL Database Project
+- Python Mini Projects
+
+## Technologies
+Python • SQL • HTML • CSS • PostgreSQL • Git
