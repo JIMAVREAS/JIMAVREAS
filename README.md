@@ -1,4 +1,4 @@
-# Hi, I'm Jim 👋
+# Hi, I'm Jim 
 
 Computer Science student interested in Data Science, Python, databases, and web development.
 
@@ -7,10 +7,9 @@ Computer Science student interested in Data Science, Python, databases, and web 
 - SQL
 - Data Analysis
 - Machine Learning basics
-- Google AI Studio
+
 
 ## Projects
-- Sports Store Website
 - PostgreSQL Database Project
 - Python Mini Projects
 
