@@ -11,7 +11,7 @@ Computer Science student interested in Data Science, Python, databases, and web 
 
 ## Projects
 - PostgreSQL Database Project
-- Python Mini Projects
+- Python  Projects
 
 ## Technologies
 Python • SQL • HTML • CSS • PostgreSQL • Git
