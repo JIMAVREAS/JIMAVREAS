@@ -1,6 +1,6 @@
 # Hi, I'm Jim 
 
-Computer Science student interested in Data Science, Python, databases, and machine learning.
+Computer Science student interested in Data Science,databases, and machine learning.
 
 ## Currently Learning
 - Python
