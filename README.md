@@ -14,5 +14,5 @@ Computer Science student interested in Data Science,databases, and machine learn
 - Python  Projects
 
 ## Technologies
-Python • SQL • HTML • CSS • PostgreSQL • Git
+Python • SQL • PostgreSQL • Git
 
